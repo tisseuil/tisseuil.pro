@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Compétences
 subtitle:
 
 # Showcase personal skills or business features.
@@ -24,16 +24,16 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+# - description: 10%
+#   icon: camera-retro
+#   icon_pack: fas
+#   name: Photography
 
 # Uncomment to use emoji icons.
-#- icon = ":smile:"
+# - icon = ":smile:"
 #  icon_pack = "emoji"
 #  name = "Emojiness"
-#  description = "100%"  
+#  description = "100%"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
