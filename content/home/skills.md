@@ -5,11 +5,12 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
+active : true  # Activate this widget? true/false
 
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Compétences
 subtitle:
 
 # Showcase personal skills or business features.
@@ -20,20 +21,24 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 80%
+  icon: chart-area
+  icon_pack: fas
+  name: Shiny
+- description: 80%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Statistique
+# - description: 10%
+#   icon: camera-retro
+#   icon_pack: fas
+#   name: Photography
 
 # Uncomment to use emoji icons.
-#- icon = ":smile:"
+# - icon = ":smile:"
 #  icon_pack = "emoji"
 #  name = "Emojiness"
-#  description = "100%"  
+#  description = "100%"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
