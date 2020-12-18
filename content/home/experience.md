@@ -23,27 +23,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  # - title: CEO
-  #   company: GenCoin
-  #   company_url: ''
-  #   location: California
-  #   date_start: '2017-01-01'
-  #   date_end: ''
-  #   description: |2-
-  #       Responsibilities include:
-  #       
-  #       * Analysing
-  #       * Modelling
-  #       * Deploying
-        
-  # - title: Professor
-  #   company: University X
-  #   company_url: ''
-  #   location: California
-  #   date_start: '2016-01-01'
-  #   date_end: '2016-12-31'
-  #   description: Taught electronic engineering and researched semiconductor physics.
-  
+
   - title: Data scientist
     company: Clément Tisseuil - Frelance
     company_url: 'https://tisseuil.netlify.app'
@@ -119,5 +99,6 @@ experience:
       * Coopération internationale  au sein du projet Européen Eurolimpacs
       * Développement de  modèles prédictifs (machine learning, deep learning)
       * Extraction et gestion de données spatiales et temporelles volumineuses
+      * Extraction de données spatiales et temporelles volumineuses (climatiques, environnementales)
 
 ---
