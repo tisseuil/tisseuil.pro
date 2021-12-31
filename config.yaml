@@ -23,6 +23,7 @@ permalinks:
   categories: /category/:slug/
   publication_types: /publication-type/:slug/
   tags: /tag/:slug/
+  posts: /post/:slug
 outputs:
   home:
     - HTML
